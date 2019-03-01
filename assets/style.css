@@ -19,6 +19,7 @@ footer {
 
   max-width: 1920px;
   margin: 0 auto;
+  overflow: hidden;
 }
 
 ul {
@@ -146,7 +147,7 @@ input::-moz-focus-inner {
 .hamburger-nav-wrap {
   position: fixed;
   top: 108px;
-  right: -2000px;
+  right: -5000px;
   z-index: 1000;
 
   display: -webkit-box;
